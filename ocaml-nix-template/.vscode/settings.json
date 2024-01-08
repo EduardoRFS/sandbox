@@ -1,0 +1,7 @@
+{
+  "ocaml.sandbox": {
+    "kind": "global"
+  },
+  "ocaml.server.codelens": true,
+  "ocaml.server.duneDiagnostics": false
+}

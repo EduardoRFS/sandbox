@@ -1,0 +1,4 @@
+(executable
+ (name do_that)
+ (public_name do-that)
+ (libraries that-library))

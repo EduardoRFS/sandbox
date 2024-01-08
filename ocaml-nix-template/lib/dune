@@ -1,0 +1,6 @@
+(library
+ (name that_library)
+ (public_name that-library)
+ (libraries ppxlib)
+ (preprocess
+  (pps ppxlib.metaquot)))
